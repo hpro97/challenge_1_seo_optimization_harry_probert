@@ -4,8 +4,6 @@
 
 i built this project to improve SEO and accessability to an already developed webpage, by consolidating CSS, adding semantics and replacing non-semantics to increase accessability. I added comments in both the HTML and CSS files to improve structure, and edited code with minimal impact to functionality and appearance.
 
-https://github.com/hpro97/challenge_1_seo_optimization_harry_probert/blob/main/starter/index.html
-
 ## Table of Contents (Optional)
 
 * [Credits](#credits)
